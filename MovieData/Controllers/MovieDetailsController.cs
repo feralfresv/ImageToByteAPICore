@@ -148,7 +148,8 @@ namespace MovieData.Controllers
             var movieDetails = await _context.MovieDetails.FindAsync(id);
             _context.MovieDetails.Remove(movieDetails);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            //return RedirectToAction(nameof(Index));
+            return RedirectToAction("List", "AddMovie2", new { @id = id });
         }
 
         private bool MovieDetailsExists(int id)
