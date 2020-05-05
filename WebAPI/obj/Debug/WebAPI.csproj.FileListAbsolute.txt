@@ -1,0 +1,76 @@
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\WebAPI.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\WebGrease.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\dev\API\ImageUpload\CloneGIthub\Image-Upload-in-Angular-5-With-WebAPI\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
