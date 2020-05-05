@@ -54,6 +54,7 @@ namespace MovieData.Controllers
         {
             return View();
         }
+        // POST: MovieDetails/
         [HttpPost]
         public async Task<IActionResult> Index(MovieDetails movies, List<IFormFile> Image)
         {
@@ -92,7 +93,7 @@ namespace MovieData.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Image,Name")] MovieDetails movieDetails)
+        public async Task<IActionResult> Edit(int id, MovieDetails movieDetails, List<IFormFile> Image)
         {
             if (id != movieDetails.Id)
             {
@@ -103,6 +104,15 @@ namespace MovieData.Controllers
             {
                 try
                 {
+                    foreach (var item in Image)
+                    {
+                        if (item.Length > 0)
+                        {
+                            using var stream = new MemoryStream();
+                            await item.CopyToAsync(stream);
+                            movieDetails.Image = stream.ToArray();
+                        }
+                    }
                     _context.Update(movieDetails);
                     await _context.SaveChangesAsync();
                 }

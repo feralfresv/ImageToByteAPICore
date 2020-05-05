@@ -18,7 +18,7 @@ namespace MovieData.Controllers
         }
 
         [HttpGet]
-        public ActionResult ViewPhoto(int id)
+        public async Task<ActionResult> ViewPhoto(int id)
         {
             var photo = _context.MovieDetails.Find(id).Image;
 
@@ -50,7 +50,7 @@ namespace MovieData.Controllers
             }
             _context.MovieDetails.Add(movies);
             _context.SaveChanges();
-            return View();
+            return RedirectToAction(nameof(List));
         }
     }
 }
